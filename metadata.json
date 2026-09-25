@@ -1,0 +1,6 @@
+{
+  "name": "Nando Elétrica RJ - Eletricista & CFTV",
+  "description": "Soluções elétricas profissionais, iluminação LED e sistemas de segurança CFTV com conformidade NBR 5410 no Rio de Janeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
